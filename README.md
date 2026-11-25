@@ -1,0 +1,2 @@
+# Acoustic-Classification-Flow-Conditions-Stone-Movement-Mountain-Rivers-ml-e24752
+In this repository, you will find the data augmentation codes, the classification codes for 5 models, CSV files extracted features, the audio files used for data augmentation, and some WAV audio samples. These files were used in the article “Acoustic Classification of Flow Conditions and Stone Movement in Mountain Rivers Using Machine Learning.”
